@@ -123,4 +123,14 @@ body {
 .navbar button {
     width: 200px;
     height: 30px;
+    font-size: medium;
+}
+
+.titlebox {
+    justify-self: center;
+    margin-top: 3%;
+    width: 400px;
+    height: 100px;
+    font-size: large;
+    text-align: center;
 }
